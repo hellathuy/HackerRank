@@ -1,4 +1,3 @@
-// print "Hello, World!" with python
+# print "Hello, World!" with python
 
-if __name__ == '__main__':
-    print "Hello, World!"
+print "Hello, World!"
