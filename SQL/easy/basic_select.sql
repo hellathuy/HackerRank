@@ -1,4 +1,4 @@
-/* Query all columns for all American cities in CITY with populations larger than 100000. */
+/* https://www.hackerrank.com/challenges/revising-the-select-query/problem */
 
 SELECT * 
 FROM CITY
