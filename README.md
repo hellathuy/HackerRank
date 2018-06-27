@@ -1,2 +1,2 @@
-# HackerRank
-HackerRank Challenges solved
+# programming_practice
+a series of problems
