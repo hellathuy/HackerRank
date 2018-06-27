@@ -1,4 +1,4 @@
-/* Query the names of all American cities in CITY with populations larger than 120000. */
+/* https://www.hackerrank.com/challenges/revising-the-select-query-2/problem */
 
 SELECT NAME 
 FROM CITY 
